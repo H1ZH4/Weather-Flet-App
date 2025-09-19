@@ -41,4 +41,6 @@ JSON — for storing favorite cities locally
 python3 weather.py
 ```
 
-((((((((:
+🧑‍💻 Developed By:
+
+Hizha Karimnezhad
